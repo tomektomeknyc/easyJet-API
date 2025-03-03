@@ -1,0 +1,3 @@
+I will develop dashboard to connect to easyJet financial model and I will use PyTorch for stock predcting.
+
+Work in progress...
